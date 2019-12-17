@@ -2,7 +2,6 @@
 
 Build OpenWrt firware [openwrt-truck]( https://git.lede-project.org/source.git ) using for openwrt   
 Hereby thank P3TERX for his amazing job: https://github.com/P3TERX/Actions-OpenWrt/
-
 Hereby thank Lintelstm for his amazing job: https://github.com/Lintelstm/myopenwrt/
 
 
